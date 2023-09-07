@@ -1,5 +1,9 @@
 questo è il mio primo file
 1 modifica
 2 modifica da vs
+<<<<<<< HEAD
 3 modifica da vs
 4 modifica
+=======
+3 modifica da vs
+>>>>>>> 5b67aa3ae4b01e7010728530206f37fd938adf83
